@@ -1,7 +1,7 @@
 {
-  "versionCode": 19,
-  "versionName": "1.9",
-  "apkUrl": "https://raw.githubusercontent.com/NetMachine/mk-cfg/main/iMonkeyTV-1.9.apk",
-  "sha256": "0141a5980c94de3d61c0f2acae1ffa9f1e54cda283d89f544199dcdba7720503",
-  "notes": "Buscador sin teclado automático; actualizaciones dentro de la app."
+  "versionCode": 20,
+  "versionName": "1.9.1",
+  "apkUrl": "https://raw.githubusercontent.com/NetMachine/mk-cfg/main/iMonkeyTV-1.9.1.apk",
+  "sha256": "b11d2be900a7d3b35c126f6540ffde7f0b6b44fafbee633c0681efdf4dc563f3",
+  "notes": "Corrige nombres de canales con coma (ej. \"Canal 13, HD\")."
 }
