@@ -1,7 +1,7 @@
 {
-  "versionCode": 20,
-  "versionName": "1.9.1",
-  "apkUrl": "https://raw.githubusercontent.com/NetMachine/mk-cfg/main/iMonkeyTV-1.9.1.apk",
-  "sha256": "b11d2be900a7d3b35c126f6540ffde7f0b6b44fafbee633c0681efdf4dc563f3",
-  "notes": "Corrige nombres de canales con coma (ej. \"Canal 13, HD\")."
+  "versionCode": 21,
+  "versionName": "1.9.2",
+  "apkUrl": "https://raw.githubusercontent.com/NetMachine/mk-cfg/main/iMonkeyTV-1.9.2.apk",
+  "sha256": "2b9a0e255f90eca69e3f95c2cdcc1660b790fd9c494ead3065286114edf928f1",
+  "notes": "Importar listas desde otro dispositivo (QR) o archivo .txt/.m3u/.zip. Nueva opción Servidor + usuario + contraseña al añadir lista."
 }
