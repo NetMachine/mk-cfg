@@ -1,7 +1,7 @@
 {
-  "versionCode": 21,
-  "versionName": "1.9.2",
-  "apkUrl": "https://raw.githubusercontent.com/NetMachine/mk-cfg/main/iMonkeyTV-1.9.2.apk",
-  "sha256": "2b9a0e255f90eca69e3f95c2cdcc1660b790fd9c494ead3065286114edf928f1",
-  "notes": "Importar listas desde otro dispositivo (QR) o archivo .txt/.m3u/.zip. Nueva opción Servidor + usuario + contraseña al añadir lista."
+  "versionCode": 22,
+  "versionName": "2.0",
+  "apkUrl": "https://raw.githubusercontent.com/NetMachine/mk-cfg/main/iMonkeyTV-2.0.apk",
+  "sha256": "30251ad74d9616c7b06824ffa6f327fc2e6f7910ed7739ef247fbbfeafe5a113",
+  "notes": "Buscar canales por palabra, cuenta Xtream, importar archivos, navegador, gestor de archivos, instalador directo de APK, registro de la app y zapping automático."
 }
