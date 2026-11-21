@@ -1,7 +1,7 @@
 {
-  "versionCode": 25,
-  "versionName": "2.2.1",
-  "apkUrl": "https://raw.githubusercontent.com/NetMachine/mk-cfg/main/iMonkeyTV-2.2.1.apk",
-  "sha256": "bf4350f67e3afd4545203b9db49eceef824e46540fb8597d196843327bbd0cb7",
-  "notes": "Arregla el cierre al abrir de la 2.2. Catálogo limpio de tus listas con mejor fuente automática, fecha de expiración de la cuenta, reporte de estado con token por QR, mini ventana sobre pantalla completa, recuerda la posición, arreglos del teclado y de la barra en listas, Downloader por http."
+  "versionCode": 26,
+  "versionName": "2.2.2",
+  "apkUrl": "https://raw.githubusercontent.com/NetMachine/mk-cfg/main/iMonkeyTV-2.2.2.apk",
+  "sha256": "63cd86a4e8c0d5645915bcfa204878b91c300a67bcf0ce774c2ea6113e86988a",
+  "notes": "Arregla la dirección de red local en los QR (token, respaldos, archivos). Catálogo limpio de tus listas con mejor fuente automática, fecha de expiración de la cuenta, reporte de estado con token por QR, mini ventana sobre pantalla completa, recuerda la posición, arreglos del teclado y de la barra en listas, Downloader por http."
 }
