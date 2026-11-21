@@ -1,7 +1,7 @@
 {
-  "versionCode": 22,
-  "versionName": "2.0",
-  "apkUrl": "https://raw.githubusercontent.com/NetMachine/mk-cfg/main/iMonkeyTV-2.0.apk",
-  "sha256": "30251ad74d9616c7b06824ffa6f327fc2e6f7910ed7739ef247fbbfeafe5a113",
-  "notes": "Buscar canales por palabra, cuenta Xtream, importar archivos, navegador, gestor de archivos, instalador directo de APK, registro de la app y zapping automático."
+  "versionCode": 23,
+  "versionName": "2.1",
+  "apkUrl": "https://raw.githubusercontent.com/NetMachine/mk-cfg/main/iMonkeyTV-2.1.apk",
+  "sha256": "0919533d97f07a09e82b7bc2c05c6bb5fc54b7cd3f8a424042811f72ba46e68c",
+  "notes": "Menos uso de RAM, límite de resolución, reconexión automática, credencial remota, ajustes por secciones, columna de categorías en pantalla completa, mini ventana con posición y tamaño, márgenes de pantalla, navegador con pestañas, descargas, Downloader y más ajustes."
 }
