@@ -1,7 +1,7 @@
 {
-  "versionCode": 23,
-  "versionName": "2.1",
-  "apkUrl": "https://raw.githubusercontent.com/NetMachine/mk-cfg/main/iMonkeyTV-2.1.apk",
-  "sha256": "0919533d97f07a09e82b7bc2c05c6bb5fc54b7cd3f8a424042811f72ba46e68c",
-  "notes": "Menos uso de RAM, límite de resolución, reconexión automática, credencial remota, ajustes por secciones, columna de categorías en pantalla completa, mini ventana con posición y tamaño, márgenes de pantalla, navegador con pestañas, descargas, Downloader y más ajustes."
+  "versionCode": 24,
+  "versionName": "2.2",
+  "apkUrl": "https://raw.githubusercontent.com/NetMachine/mk-cfg/main/iMonkeyTV-2.2.apk",
+  "sha256": "0d1a2378f34881201cfdf3d82f928f9fbad27db4c4bb40e5adde7b908eec7e30",
+  "notes": "Catálogo limpio de tus listas con mejor fuente automática, fecha de expiración de la cuenta, reporte de estado con token por QR, mini ventana sobre pantalla completa, recuerda la posición, arreglos del teclado y de la barra en listas, Downloader por http."
 }
