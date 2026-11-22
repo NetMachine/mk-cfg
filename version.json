@@ -1,7 +1,7 @@
 {
-  "versionCode": 28,
-  "versionName": "2.4",
-  "apkUrl": "https://raw.githubusercontent.com/NetMachine/mk-cfg/main/iMonkeyTV-2.4.apk",
-  "sha256": "f07747322d179e7d9e22aa4215f7392d3e8deaad7f1f3e8fb2cfbb784bef199f",
-  "notes": "- Fútbol (reemplaza Arena): tabla, fixture en hora de Chile y marcador en vivo; dónde verlo con canales de tus listas y eventos PPV de tus listas\n- Guía (EPG): Xtream, url-tvg, tus guías XMLTV y guías públicas automáticas; gestor de guías en Ajustes; banda ahora/después con progreso en pantalla completa\n- «Mi lista»: arma tu propia lista con categorías y marcas (ESPN, DAZN, F1…) y agrégala a TV en vivo\n- Búsqueda de canales ya no junta canales distintos\n- Pantalla completa: pestañas compactas con íconos; «Todo» muestra la lista que ves en En vivo; al salir, el foco queda en el canal que estás viendo\n- Mantener OK: el menú ya no elige una opción solo\n- El teclado ya no se abre solo al enfocar un campo\n- La mini ventana solo se alcanza desde los bordes izquierdo/derecho"
+  "versionCode": 29,
+  "versionName": "2.5",
+  "apkUrl": "https://raw.githubusercontent.com/NetMachine/mk-cfg/main/iMonkeyTV-2.5.apk",
+  "sha256": "c895063b0e27fcd23699a5a5551930b71a98fb4f23c66912b8ff6d892133ab97",
+  "notes": "- Guía (EPG) visible en En vivo: programa actual, horario y barra de avance en cada canal; botón «Guía» con grilla; guía por canal y ficha del programa\n- La guía se descarga al abrir si no hay datos («Descargando guía…»); las guías Xtream grandes ya no se descartan; estado en Ajustes › Guía\n- Seguir sonando al salir (Ajustes › Reproductor), con notificación\n- Buffer y anti-vaciado configurables: 30/60/90 s, retraso al iniciar, bajar calidad, velocidad 0,97x y salto a otra fuente, cada uno con su interruptor\n- Ocultar categorías y canales (reversible, pantalla «Ocultos»)\n- Verificación: resolución máxima y multivariante (MV) en la lista y en Info\n- Fútbol: escudos, emisoras por liga editables y «Asignar canal» por partido\n- Teclado: navegación envolvente en los bordes\n- Mini ventana: solo video sin foco, ▲ desde el menú la selecciona, intercambiar y zapping automático propio\n- En vivo: el video ya no salta al enfocar la vista previa"
 }
