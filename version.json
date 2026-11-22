@@ -1,7 +1,7 @@
 {
-  "versionCode": 26,
-  "versionName": "2.2.2",
-  "apkUrl": "https://raw.githubusercontent.com/NetMachine/mk-cfg/main/iMonkeyTV-2.2.2.apk",
-  "sha256": "63cd86a4e8c0d5645915bcfa204878b91c300a67bcf0ce774c2ea6113e86988a",
-  "notes": "Arregla la dirección de red local en los QR (token, respaldos, archivos). Catálogo limpio de tus listas con mejor fuente automática, fecha de expiración de la cuenta, reporte de estado con token por QR, mini ventana sobre pantalla completa, recuerda la posición, arreglos del teclado y de la barra en listas, Downloader por http."
+  "versionCode": 27,
+  "versionName": "2.3",
+  "apkUrl": "https://raw.githubusercontent.com/NetMachine/mk-cfg/main/iMonkeyTV-2.3.apk",
+  "sha256": "fa04f5da22268f1c93aa4dbfded100240771f15e2a25ea18f7dd5a87e3eceeb8",
+  "notes": "- QR y dirección de red: usa la IP real del WiFi o cable (se recalcula al abrir y al cambiar de red)\n- Perfiles de encabezados (iPhone, Chrome, TiviMate, MAG, VLC y más) global, por lista y por canal, con encabezados extra y perfiles propios\n- Pantalla completa: el menú lateral ya no se congela; «Todos» recuerda la categoría, enfoca el canal en curso y muestra solo listas activas\n- Teclado propio para buscar (también en pantalla completa), con fondo Blur o Translúcido\n- Catálogo «En español»: por país (Chile primero), tipo, resolución y velocidad, sin repetidos\n- Logo animado al iniciar\n- Versión visible al final de Ajustes"
 }
