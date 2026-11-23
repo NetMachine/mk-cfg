@@ -1,7 +1,7 @@
 {
-  "versionCode": 33,
-  "versionName": "2.6.3",
-  "apkUrl": "https://raw.githubusercontent.com/NetMachine/mk-cfg/main/iMonkeyTV-2.6.3.apk",
-  "sha256": "480d2b70cc70b91c81beaf3dd685eb74fae31481cde9922589afc75e2bff2ac1",
-  "notes": "2.6.3: la pantalla de inicio parpadea con un círculo de carga y se funde cuando el canal ya se ve en pantalla grande. En Ajustes → Actualizaciones, mantén presionado «Versión» para ver el logo parpadeando con la versión."
+  "versionCode": 34,
+  "versionName": "2.6.4",
+  "apkUrl": "https://raw.githubusercontent.com/NetMachine/mk-cfg/main/iMonkeyTV-2.6.4.apk",
+  "sha256": "862094604eb5abbb0dd062c17a07a34b323cddfb5c684d1986ca84ba589cf6d8",
+  "notes": "2.6.4: el logo del inicio parpadea sin Lottie (arregla que en Android 6 no apareciera). En Ajustes → Actualizaciones, mantén presionado OK sobre «Versión» para ver la demo; se cierra con otra tecla o Atrás."
 }
