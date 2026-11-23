@@ -1,7 +1,7 @@
 {
-  "versionCode": 30,
-  "versionName": "2.6",
-  "apkUrl": "https://raw.githubusercontent.com/NetMachine/mk-cfg/main/iMonkeyTV-2.6.apk",
-  "sha256": "3a93a7f1b173e6b60723d40f644ff0d8c31265ce699604cf819cafb1bb574281",
-  "notes": "- Guía para más canales: emparejado inteligente (sin HD/FHD/país/símbolos, alias, tvg-id parecido), guía prestada del mismo canal en otra lista, get_short_epg al enfocar, guías públicas fijas (Chile, Argentina, México, España, USA) de baja prioridad\n- «Elegir guía» en el menú del canal con buscador en todas las guías; la elección manual es permanente y se puede quitar\n- Gestor de guías: abre una guía, busca un canal y asígnalo a varios de tus canales con casillas\n- Ajustes › Guía › «Canales sin guía» con botón para asignar y aviso de guías sin programas de hoy\n- Canales PPV/evento: programa leído del nombre + fixture de Fútbol\n- Opción: leer ahora/siguiente del propio flujo (EIT) al verificar canales (apagada por defecto)\n- Mini ventana fuera de la app (Ajustes › Pantalla): PiP del sistema en Android 8+ y ventana flotante en Android 6, con tamaño, esquina, sonido, opacidad y botón cerrar (apagada por defecto)\n- Registro pausado por defecto, con interruptor en Ajustes › Registro\n- Inicio: el logo parpadea desde el primer momento y se funde con la app"
+  "versionCode": 31,
+  "versionName": "2.6.1",
+  "apkUrl": "https://raw.githubusercontent.com/NetMachine/mk-cfg/main/iMonkeyTV-2.6.1.apk",
+  "sha256": "289058805fde506a49b45ff8f9e58ea665b3bd2798998eaa11c5fe134499936d",
+  "notes": "2.6.1: corrige cierre al abrir Mi lista (categoría duplicada)."
 }
