@@ -1,7 +1,7 @@
 {
-  "versionCode": 41,
-  "versionName": "2.6.7.4",
-  "apkUrl": "https://raw.githubusercontent.com/NetMachine/mk-cfg/main/iMonkeyTV-2.6.7.4.apk",
-  "sha256": "b7e73375cf76912972bed684faec1373b4d9774580623242d8b6c1299c10ebcc",
-  "notes": "2.6.7.4: guía automática para los canales sin guía (prueba guías parecidas hasta encontrar programación real; se cambia o quita con «Elegir guía»). En TV en vivo, botones SD · HD · FHD · 2K · 4K junto al número de canales que filtran por la resolución real medida. Menú de pantalla completa más fluido."
+  "versionCode": 42,
+  "versionName": "2.6.7.5",
+  "apkUrl": "https://raw.githubusercontent.com/NetMachine/mk-cfg/main/iMonkeyTV-2.6.7.5.apk",
+  "sha256": "c266ae3cbde81624c384f8ee9e3b40cb8c5413e66f34a16f75920653f95909bb",
+  "notes": "2.6.7.5: la guía Xtream (xmltv.php) ahora también llega a listas get.php y a los canales de otras listas con URLs de la misma cuenta (Mi lista). Menú de pantalla completa y categorías más fluidos: animaciones simplificadas y menos redibujado al moverse."
 }
