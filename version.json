@@ -1,7 +1,7 @@
 {
-  "versionCode": 36,
-  "versionName": "2.6.6",
-  "apkUrl": "https://raw.githubusercontent.com/NetMachine/mk-cfg/main/iMonkeyTV-2.6.6.apk",
-  "sha256": "3a61b155073d0c682cdee85b19f78ddb3f42d0b503531631bb0c1bc47f159d3d",
-  "notes": "2.6.6: inicio más fluido (animación en hilo propio, carga de tres puntos) y arranque directo al último canal en pantalla grande; la guía y la verificación esperan a que termine el inicio. Ajustes: ocultar canales sin señal ahora funciona en listas grandes, y nuevas opciones para ocultar canales de menos de 720p y canales sin resolución conocida (favoritos siempre visibles)."
+  "versionCode": 37,
+  "versionName": "2.6.7",
+  "apkUrl": "https://raw.githubusercontent.com/NetMachine/mk-cfg/main/iMonkeyTV-2.6.7.apk",
+  "sha256": "ec876467576a86c25a36e4522bdd73993218dc54da5bb90acd5d72db6566aa1c",
+  "notes": "2.6.7: en TV en vivo, mantén OK sobre una categoría para borrarla (se recupera en Ajustes › Ocultos, donde también puedes borrarla definitivamente). Mantener OK sobre un canal ya no activa la primera opción del menú. El menú del canal se desplaza. Círculo de carga en búsquedas de guía y donde algo está cargando."
 }
