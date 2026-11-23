@@ -1,7 +1,7 @@
 {
-  "versionCode": 32,
-  "versionName": "2.6.2",
-  "apkUrl": "https://raw.githubusercontent.com/NetMachine/mk-cfg/main/iMonkeyTV-2.6.2.apk",
-  "sha256": "e1351a9b29626ea8525dc7e14a93505dfbb1cc4337051dc826eb2a9901fc9e99",
-  "notes": "2.6.2: corrige cierres por listas con elementos repetidos (selector de guías y otras)."
+  "versionCode": 33,
+  "versionName": "2.6.3",
+  "apkUrl": "https://raw.githubusercontent.com/NetMachine/mk-cfg/main/iMonkeyTV-2.6.3.apk",
+  "sha256": "480d2b70cc70b91c81beaf3dd685eb74fae31481cde9922589afc75e2bff2ac1",
+  "notes": "2.6.3: la pantalla de inicio parpadea con un círculo de carga y se funde cuando el canal ya se ve en pantalla grande. En Ajustes → Actualizaciones, mantén presionado «Versión» para ver el logo parpadeando con la versión."
 }
