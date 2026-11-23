@@ -1,7 +1,7 @@
 {
-  "versionCode": 39,
-  "versionName": "2.6.7.2",
-  "apkUrl": "https://raw.githubusercontent.com/NetMachine/mk-cfg/main/iMonkeyTV-2.6.7.2.apk",
-  "sha256": "daeb7ee34b4e51e494a3558f70c807dffc778ef9b46af4d3b7de36b85d66bcf8",
-  "notes": "2.6.7.2: las categorías borradas desaparecen al instante. La resolución junto al canal aparece y se corrige al tiro según lo que realmente se ve. En pantalla completa, el menú de canales viene precargado y las pestañas Todo / Favoritos / Recientes cambian con deslizamiento y fundido."
+  "versionCode": 40,
+  "versionName": "2.6.7.3",
+  "apkUrl": "https://raw.githubusercontent.com/NetMachine/mk-cfg/main/iMonkeyTV-2.6.7.3.apk",
+  "sha256": "7f70dd88a0423f7db66f173ce80e45961c5ac5a74f538272fcf0b38b92a62860",
+  "notes": "2.6.7.3: en pantalla completa la columna de categorías entra y sale deslizándose; la barra de info tiene un degradado más alto, los títulos largos se desplazan y los datos van ordenados con latencia y descarga/subida. La barra de estado muestra el nombre del WiFi, la latencia en ms y la descarga/subida. La vista previa de TV en vivo tiene esquinas rectas."
 }
