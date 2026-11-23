@@ -1,7 +1,7 @@
 {
-  "versionCode": 35,
-  "versionName": "2.6.5",
-  "apkUrl": "https://raw.githubusercontent.com/NetMachine/mk-cfg/main/iMonkeyTV-2.6.5.apk",
-  "sha256": "b9a5f69224767de7fdea244630c50afec20d635260dad000f3845b4001484811",
-  "notes": "2.6.5: puedes guardar varias credenciales en la página; cada una es una lista, y con el mismo nombre de una lista existente la sobrescribe. Inicio: círculo de carga más abajo, versión pequeña abajo con fundido, y el logo queda sólido hasta el fundido."
+  "versionCode": 36,
+  "versionName": "2.6.6",
+  "apkUrl": "https://raw.githubusercontent.com/NetMachine/mk-cfg/main/iMonkeyTV-2.6.6.apk",
+  "sha256": "3a61b155073d0c682cdee85b19f78ddb3f42d0b503531631bb0c1bc47f159d3d",
+  "notes": "2.6.6: inicio más fluido (animación en hilo propio, carga de tres puntos) y arranque directo al último canal en pantalla grande; la guía y la verificación esperan a que termine el inicio. Ajustes: ocultar canales sin señal ahora funciona en listas grandes, y nuevas opciones para ocultar canales de menos de 720p y canales sin resolución conocida (favoritos siempre visibles)."
 }
