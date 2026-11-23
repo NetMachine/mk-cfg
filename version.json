@@ -1,7 +1,7 @@
 {
-  "versionCode": 43,
-  "versionName": "2.6.7.6",
-  "apkUrl": "https://raw.githubusercontent.com/NetMachine/mk-cfg/main/iMonkeyTV-2.6.7.6.apk",
-  "sha256": "69e07fefb8b200583d12ef31bca73482a737485d944f0c9472b1be42d724cd8a",
-  "notes": "2.6.7.6: menú de canales en pantalla completa con animaciones fluidas: se abre y cierra deslizando, las categorías entran y salen suaves y el menú se angosta al pasar a Favoritos o Recientes. Incluye la guía Xtream para Mi lista y listas get.php."
+  "versionCode": 44,
+  "versionName": "2.6.7.7",
+  "apkUrl": "https://raw.githubusercontent.com/NetMachine/mk-cfg/main/iMonkeyTV-2.6.7.7.apk",
+  "sha256": "d7e7471c04783e98d15be8fb4c8b87d567354143aecbf7336c2f589ba4cf0079",
+  "notes": "2.6.7.7: en pantalla completa los canales se deslizan de lado al cambiar de pestaña (sin corte negro) y las categorías se abren con un segundo ◀ en Todo. TV en vivo: chips HD, FHD y 4K y botón Verificar todo (señal, resolución y guía). Mini ventana sin nombre del canal y más liviana."
 }
