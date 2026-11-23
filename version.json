@@ -1,7 +1,7 @@
 {
-  "versionCode": 42,
-  "versionName": "2.6.7.5",
-  "apkUrl": "https://raw.githubusercontent.com/NetMachine/mk-cfg/main/iMonkeyTV-2.6.7.5.apk",
-  "sha256": "c266ae3cbde81624c384f8ee9e3b40cb8c5413e66f34a16f75920653f95909bb",
-  "notes": "2.6.7.5: la guía Xtream (xmltv.php) ahora también llega a listas get.php y a los canales de otras listas con URLs de la misma cuenta (Mi lista). Menú de pantalla completa y categorías más fluidos: animaciones simplificadas y menos redibujado al moverse."
+  "versionCode": 43,
+  "versionName": "2.6.7.6",
+  "apkUrl": "https://raw.githubusercontent.com/NetMachine/mk-cfg/main/iMonkeyTV-2.6.7.6.apk",
+  "sha256": "69e07fefb8b200583d12ef31bca73482a737485d944f0c9472b1be42d724cd8a",
+  "notes": "2.6.7.6: menú de canales en pantalla completa con animaciones fluidas: se abre y cierra deslizando, las categorías entran y salen suaves y el menú se angosta al pasar a Favoritos o Recientes. Incluye la guía Xtream para Mi lista y listas get.php."
 }
