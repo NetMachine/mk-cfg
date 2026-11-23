@@ -1,7 +1,7 @@
 {
-  "versionCode": 31,
-  "versionName": "2.6.1",
-  "apkUrl": "https://raw.githubusercontent.com/NetMachine/mk-cfg/main/iMonkeyTV-2.6.1.apk",
-  "sha256": "289058805fde506a49b45ff8f9e58ea665b3bd2798998eaa11c5fe134499936d",
-  "notes": "2.6.1: corrige cierre al abrir Mi lista (categoría duplicada)."
+  "versionCode": 32,
+  "versionName": "2.6.2",
+  "apkUrl": "https://raw.githubusercontent.com/NetMachine/mk-cfg/main/iMonkeyTV-2.6.2.apk",
+  "sha256": "e1351a9b29626ea8525dc7e14a93505dfbb1cc4337051dc826eb2a9901fc9e99",
+  "notes": "2.6.2: corrige cierres por listas con elementos repetidos (selector de guías y otras)."
 }
