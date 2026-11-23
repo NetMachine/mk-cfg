@@ -1,7 +1,7 @@
 {
-  "versionCode": 45,
-  "versionName": "2.6.7.8",
-  "apkUrl": "https://raw.githubusercontent.com/NetMachine/mk-cfg/main/iMonkeyTV-2.6.7.8.apk",
-  "sha256": "4f17ef388b5464d8b0218f252c658b7a4c2c3edb69c2b93509effeebf22d4e7a",
-  "notes": "2.6.7.8: Verificar todo revisa solo los canales que se ven en la lista. Al iniciar con el último canal, todo se carga bajo el logo y el canal entra con el volumen subiendo despacio mientras el logo se desvanece. La barra de estado quita el nombre de la wifi y luego la bajada/subida si falta espacio."
+  "versionCode": 46,
+  "versionName": "2.6.7.9",
+  "apkUrl": "https://raw.githubusercontent.com/NetMachine/mk-cfg/main/iMonkeyTV-2.6.7.9.apk",
+  "sha256": "c66c810db668a0c4bd5dcf972f81c115f923cd9516328912006b28079f0c5d86",
+  "notes": "2.6.7.9: logo se desvanece rápido cuando todo está cargado; precarga completa siempre; Info navegable con el control; menú de canales solo se desliza; mini sin audio y más liviana (modo mini) con opción de congelar video de fondo; el foco vuelve al último ítem; cambiar nombre e icono de canales."
 }
