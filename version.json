@@ -1,7 +1,7 @@
 {
-  "versionCode": 29,
-  "versionName": "2.5",
-  "apkUrl": "https://raw.githubusercontent.com/NetMachine/mk-cfg/main/iMonkeyTV-2.5.apk",
-  "sha256": "c895063b0e27fcd23699a5a5551930b71a98fb4f23c66912b8ff6d892133ab97",
-  "notes": "- Guía (EPG) visible en En vivo: programa actual, horario y barra de avance en cada canal; botón «Guía» con grilla; guía por canal y ficha del programa\n- La guía se descarga al abrir si no hay datos («Descargando guía…»); las guías Xtream grandes ya no se descartan; estado en Ajustes › Guía\n- Seguir sonando al salir (Ajustes › Reproductor), con notificación\n- Buffer y anti-vaciado configurables: 30/60/90 s, retraso al iniciar, bajar calidad, velocidad 0,97x y salto a otra fuente, cada uno con su interruptor\n- Ocultar categorías y canales (reversible, pantalla «Ocultos»)\n- Verificación: resolución máxima y multivariante (MV) en la lista y en Info\n- Fútbol: escudos, emisoras por liga editables y «Asignar canal» por partido\n- Teclado: navegación envolvente en los bordes\n- Mini ventana: solo video sin foco, ▲ desde el menú la selecciona, intercambiar y zapping automático propio\n- En vivo: el video ya no salta al enfocar la vista previa"
+  "versionCode": 30,
+  "versionName": "2.6",
+  "apkUrl": "https://raw.githubusercontent.com/NetMachine/mk-cfg/main/iMonkeyTV-2.6.apk",
+  "sha256": "3a93a7f1b173e6b60723d40f644ff0d8c31265ce699604cf819cafb1bb574281",
+  "notes": "- Guía para más canales: emparejado inteligente (sin HD/FHD/país/símbolos, alias, tvg-id parecido), guía prestada del mismo canal en otra lista, get_short_epg al enfocar, guías públicas fijas (Chile, Argentina, México, España, USA) de baja prioridad\n- «Elegir guía» en el menú del canal con buscador en todas las guías; la elección manual es permanente y se puede quitar\n- Gestor de guías: abre una guía, busca un canal y asígnalo a varios de tus canales con casillas\n- Ajustes › Guía › «Canales sin guía» con botón para asignar y aviso de guías sin programas de hoy\n- Canales PPV/evento: programa leído del nombre + fixture de Fútbol\n- Opción: leer ahora/siguiente del propio flujo (EIT) al verificar canales (apagada por defecto)\n- Mini ventana fuera de la app (Ajustes › Pantalla): PiP del sistema en Android 8+ y ventana flotante en Android 6, con tamaño, esquina, sonido, opacidad y botón cerrar (apagada por defecto)\n- Registro pausado por defecto, con interruptor en Ajustes › Registro\n- Inicio: el logo parpadea desde el primer momento y se funde con la app"
 }
