@@ -1,7 +1,7 @@
 {
-  "versionCode": 37,
-  "versionName": "2.6.7",
-  "apkUrl": "https://raw.githubusercontent.com/NetMachine/mk-cfg/main/iMonkeyTV-2.6.7.apk",
-  "sha256": "ec876467576a86c25a36e4522bdd73993218dc54da5bb90acd5d72db6566aa1c",
-  "notes": "2.6.7: en TV en vivo, mantén OK sobre una categoría para borrarla (se recupera en Ajustes › Ocultos, donde también puedes borrarla definitivamente). Mantener OK sobre un canal ya no activa la primera opción del menú. El menú del canal se desplaza. Círculo de carga en búsquedas de guía y donde algo está cargando."
+  "versionCode": 38,
+  "versionName": "2.6.7.1",
+  "apkUrl": "https://raw.githubusercontent.com/NetMachine/mk-cfg/main/iMonkeyTV-2.6.7.1.apk",
+  "sha256": "0a85c0565d904174bf15d66607cd9553db429d58a95efa23e9827ae964ba1aac",
+  "notes": "2.6.7.1: con «Empezar en el último canal», la app abre normal en TV en vivo con el último canal sonando en la vista previa y marcado en la lista (ya no salta a pantalla completa)."
 }
