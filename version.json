@@ -1,7 +1,7 @@
 {
-  "versionCode": 44,
-  "versionName": "2.6.7.7",
-  "apkUrl": "https://raw.githubusercontent.com/NetMachine/mk-cfg/main/iMonkeyTV-2.6.7.7.apk",
-  "sha256": "d7e7471c04783e98d15be8fb4c8b87d567354143aecbf7336c2f589ba4cf0079",
-  "notes": "2.6.7.7: en pantalla completa los canales se deslizan de lado al cambiar de pestaña (sin corte negro) y las categorías se abren con un segundo ◀ en Todo. TV en vivo: chips HD, FHD y 4K y botón Verificar todo (señal, resolución y guía). Mini ventana sin nombre del canal y más liviana."
+  "versionCode": 45,
+  "versionName": "2.6.7.8",
+  "apkUrl": "https://raw.githubusercontent.com/NetMachine/mk-cfg/main/iMonkeyTV-2.6.7.8.apk",
+  "sha256": "4f17ef388b5464d8b0218f252c658b7a4c2c3edb69c2b93509effeebf22d4e7a",
+  "notes": "2.6.7.8: Verificar todo revisa solo los canales que se ven en la lista. Al iniciar con el último canal, todo se carga bajo el logo y el canal entra con el volumen subiendo despacio mientras el logo se desvanece. La barra de estado quita el nombre de la wifi y luego la bajada/subida si falta espacio."
 }
