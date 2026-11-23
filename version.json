@@ -1,7 +1,7 @@
 {
-  "versionCode": 34,
-  "versionName": "2.6.4",
-  "apkUrl": "https://raw.githubusercontent.com/NetMachine/mk-cfg/main/iMonkeyTV-2.6.4.apk",
-  "sha256": "862094604eb5abbb0dd062c17a07a34b323cddfb5c684d1986ca84ba589cf6d8",
-  "notes": "2.6.4: el logo del inicio parpadea sin Lottie (arregla que en Android 6 no apareciera). En Ajustes → Actualizaciones, mantén presionado OK sobre «Versión» para ver la demo; se cierra con otra tecla o Atrás."
+  "versionCode": 35,
+  "versionName": "2.6.5",
+  "apkUrl": "https://raw.githubusercontent.com/NetMachine/mk-cfg/main/iMonkeyTV-2.6.5.apk",
+  "sha256": "b9a5f69224767de7fdea244630c50afec20d635260dad000f3845b4001484811",
+  "notes": "2.6.5: puedes guardar varias credenciales en la página; cada una es una lista, y con el mismo nombre de una lista existente la sobrescribe. Inicio: círculo de carga más abajo, versión pequeña abajo con fundido, y el logo queda sólido hasta el fundido."
 }
