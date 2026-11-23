@@ -1,7 +1,7 @@
 {
-  "versionCode": 38,
-  "versionName": "2.6.7.1",
-  "apkUrl": "https://raw.githubusercontent.com/NetMachine/mk-cfg/main/iMonkeyTV-2.6.7.1.apk",
-  "sha256": "0a85c0565d904174bf15d66607cd9553db429d58a95efa23e9827ae964ba1aac",
-  "notes": "2.6.7.1: con «Empezar en el último canal», la app abre normal en TV en vivo con el último canal sonando en la vista previa y marcado en la lista (ya no salta a pantalla completa)."
+  "versionCode": 39,
+  "versionName": "2.6.7.2",
+  "apkUrl": "https://raw.githubusercontent.com/NetMachine/mk-cfg/main/iMonkeyTV-2.6.7.2.apk",
+  "sha256": "daeb7ee34b4e51e494a3558f70c807dffc778ef9b46af4d3b7de36b85d66bcf8",
+  "notes": "2.6.7.2: las categorías borradas desaparecen al instante. La resolución junto al canal aparece y se corrige al tiro según lo que realmente se ve. En pantalla completa, el menú de canales viene precargado y las pestañas Todo / Favoritos / Recientes cambian con deslizamiento y fundido."
 }
