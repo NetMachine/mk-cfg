@@ -1,7 +1,7 @@
 {
-  "versionCode": 48,
-  "versionName": "2.6.8.1",
-  "apkUrl": "https://raw.githubusercontent.com/NetMachine/mk-cfg/main/iMonkeyTV-2.6.8.1.apk",
-  "sha256": "740802abec523d37b19e43b320b1b126c9e1caf8a47f6c5eaa116e09c1e65342",
-  "notes": "2.6.8.1: arreglo de TV en vivo vacía («Canales · 0») cuando hay muchas categorías ocultas o borradas; si la lectura de canales falla, la pantalla lo avisa."
+  "versionCode": 49,
+  "versionName": "2.6.8.2",
+  "apkUrl": "https://raw.githubusercontent.com/NetMachine/mk-cfg/main/iMonkeyTV-2.6.8.2.apk",
+  "sha256": "3c09aee0be150ec453e977abb9bd84eff8583d09f03fab7d0e34fc58b40c1679",
+  "notes": "2.6.8.2: la mini usa el decodificador por hardware (con «Congelar video de fondo» activado); nuevo selector de canales de la mini con Favoritos, Todos y SD; teclado parte en mayúsculas; foco en «Borrar» si hay texto; opción de mayúsculas en el teclado del sistema; Atrás vuelve a TV en vivo y doble Atrás para salir."
 }
