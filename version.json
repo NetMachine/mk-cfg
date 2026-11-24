@@ -1,7 +1,7 @@
 {
-  "versionCode": 46,
-  "versionName": "2.6.7.9",
-  "apkUrl": "https://raw.githubusercontent.com/NetMachine/mk-cfg/main/iMonkeyTV-2.6.7.9.apk",
-  "sha256": "c66c810db668a0c4bd5dcf972f81c115f923cd9516328912006b28079f0c5d86",
-  "notes": "2.6.7.9: logo se desvanece rápido cuando todo está cargado; precarga completa siempre; Info navegable con el control; menú de canales solo se desliza; mini sin audio y más liviana (modo mini) con opción de congelar video de fondo; el foco vuelve al último ítem; cambiar nombre e icono de canales."
+  "versionCode": 47,
+  "versionName": "2.6.8",
+  "apkUrl": "https://raw.githubusercontent.com/NetMachine/mk-cfg/main/iMonkeyTV-2.6.8.apk",
+  "sha256": "ea39d5e3a5947180bfd6f91a0bc5a60e3ca548e4df216245d6949aabf8cd7776",
+  "notes": "2.6.8: diagnóstico y decodificador de la mini en Ajustes; vuelve el volumen de la mini (el audio se decodifica solo al subirlo); teclado con mayúsculas/minúsculas y cursor en la barra de texto; cambios de nombre e icono de canales se ven al instante."
 }
