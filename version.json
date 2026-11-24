@@ -1,7 +1,7 @@
 {
-  "versionCode": 50,
-  "versionName": "2.6.8.3",
-  "apkUrl": "https://raw.githubusercontent.com/NetMachine/mk-cfg/main/iMonkeyTV-2.6.8.3.apk",
-  "sha256": "7cb82ebaaaed4e7ca5ce7d3a84986903122197362cd3263e8368bb001b7d6390",
-  "notes": "2.6.8.3: nueva sección «Mis listas» (listas propias con categorías, varias direcciones por canal con resolución y vencimiento, plantilla predeterminada, PIN opcional, exportar .m3u8 + .xml); ocultar secciones del menú; reconexión automática si el video no es compatible; punto verde de señal; Atrás oculta la info primero; resolución junto al título; scroll rápido de 10 en 10; mini sin título y borde delgado."
+  "versionCode": 51,
+  "versionName": "2.6.8.4",
+  "apkUrl": "https://raw.githubusercontent.com/NetMachine/mk-cfg/main/iMonkeyTV-2.6.8.4.apk",
+  "sha256": "900093304b64aca3f4dfc512f31e927ba29ad61b5fe103fba6366abc2bc85007",
+  "notes": "2.6.8.4: scroll mantenido que acelera de forma progresiva; OK mantenido sobre una categoría de TV en vivo abre menú Ocultar / Cambiar nombre; en «Mis listas», «Ver» muestra el video dentro de la ventana del canal (lanza la vista PiP sola); nuevo «Agregar a Mis listas…» en el menú de canal de TV en vivo (elige lista y categoría o crea una)."
 }
