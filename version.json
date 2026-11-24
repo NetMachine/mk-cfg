@@ -1,7 +1,7 @@
 {
-  "versionCode": 51,
-  "versionName": "2.6.8.4",
-  "apkUrl": "https://raw.githubusercontent.com/NetMachine/mk-cfg/main/iMonkeyTV-2.6.8.4.apk",
-  "sha256": "900093304b64aca3f4dfc512f31e927ba29ad61b5fe103fba6366abc2bc85007",
-  "notes": "2.6.8.4: scroll mantenido que acelera de forma progresiva; OK mantenido sobre una categoría de TV en vivo abre menú Ocultar / Cambiar nombre; en «Mis listas», «Ver» muestra el video dentro de la ventana del canal (lanza la vista PiP sola); nuevo «Agregar a Mis listas…» en el menú de canal de TV en vivo (elige lista y categoría o crea una)."
+  "versionCode": 52,
+  "versionName": "2.6.8.5",
+  "apkUrl": "https://raw.githubusercontent.com/NetMachine/mk-cfg/main/iMonkeyTV-2.6.8.5.apk",
+  "sha256": "e9197432e81712738e32be66f0d4f2d68189721fb91b1208b040a640ffdfd9d0",
+  "notes": "2.6.8.5: Mis listas en la nube cifrada (subir, bajar, seguir la nube, sincroniza cada N minutos); Equipos iMonkey en la red local (se avisan cambios entre cajas, también entre extensor y router); «Autocompletar canales» llena los canales sin dirección con fuentes del catálogo. Ajustes › Nube y Ajustes › Equipos."
 }
