@@ -1,7 +1,7 @@
 {
-  "versionCode": 47,
-  "versionName": "2.6.8",
-  "apkUrl": "https://raw.githubusercontent.com/NetMachine/mk-cfg/main/iMonkeyTV-2.6.8.apk",
-  "sha256": "ea39d5e3a5947180bfd6f91a0bc5a60e3ca548e4df216245d6949aabf8cd7776",
-  "notes": "2.6.8: diagnóstico y decodificador de la mini en Ajustes; vuelve el volumen de la mini (el audio se decodifica solo al subirlo); teclado con mayúsculas/minúsculas y cursor en la barra de texto; cambios de nombre e icono de canales se ven al instante."
+  "versionCode": 48,
+  "versionName": "2.6.8.1",
+  "apkUrl": "https://raw.githubusercontent.com/NetMachine/mk-cfg/main/iMonkeyTV-2.6.8.1.apk",
+  "sha256": "740802abec523d37b19e43b320b1b126c9e1caf8a47f6c5eaa116e09c1e65342",
+  "notes": "2.6.8.1: arreglo de TV en vivo vacía («Canales · 0») cuando hay muchas categorías ocultas o borradas; si la lectura de canales falla, la pantalla lo avisa."
 }
