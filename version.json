@@ -1,7 +1,7 @@
 {
-  "versionCode": 58,
-  "versionName": "2.6.81",
-  "apkUrl": "https://raw.githubusercontent.com/NetMachine/mk-cfg/main/iMonkeyTV-2.6.81.apk",
-  "sha256": "b29aaed5aca5c9233b4bf59bf1d66e11ea2c75f6c09d811e4e7143773755a481",
-  "notes": "2.6.81: verifica también los canales STB (de a uno y despacio, nunca mientras ves algo; Xtream y M3U igual que antes). Ante el error 459 pide un enlace nuevo al reconectar. Menos memoria (no carga los ocultos; cada lista se guarda al llegar). TV en vivo: Favoritos, Ocultos y Verificar pegados a la derecha. Página de credenciales: ahora acepta listas M3U por enlace o texto pegado."
+  "versionCode": 59,
+  "versionName": "2.6.82",
+  "apkUrl": "https://raw.githubusercontent.com/NetMachine/mk-cfg/main/iMonkeyTV-2.6.82.apk",
+  "sha256": "bef6f957763282025b8a3cd440aed8a00ab5f8d7810e6f794f37e47e17ccf62f",
+  "notes": "2.6.82: Ajustes › Menú principal (ordenar y ocultar secciones). Atrás retrae el menú extendido. Desde un canal: ir a su lista en Mis listas. Icono: zoom de 5 en 5 y color de fondo. Al iniciar, primero revisa si hay actualización. Barra de info unida a los botones, más oscuros. Respaldo completo cifrado en la nube y restaurar. Borrar listas desde la página de credenciales."
 }
