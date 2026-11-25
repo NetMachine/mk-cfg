@@ -1,7 +1,7 @@
 {
-  "versionCode": 61,
-  "versionName": "2.6.84",
-  "apkUrl": "https://raw.githubusercontent.com/NetMachine/mk-cfg/main/iMonkeyTV-2.6.84.apk",
-  "sha256": "8618acb6cc418f9b8d3135d2be7c8ff6780c72c41d606f36a4f3de7cc53624ea",
-  "notes": "2.6.84: Los cambios de nombre, icono y aspecto hechos en TV en vivo ahora también quedan en Mis listas, incluidos los anteriores, y \"Restaurar\" también aplica ahí. En el menú del canal siempre está \"Ir a Mis listas\", que lleva a la categoría más parecida. En pantalla completa, el icono es más grande cuando hay guía y la etiqueta muestra la resolución real (1080p FHD, 4K UHD) desde el primer momento. El cambio de categoría en el menú de canales es más fluido."
+  "versionCode": 62,
+  "versionName": "2.6.9",
+  "apkUrl": "https://raw.githubusercontent.com/NetMachine/mk-cfg/main/iMonkeyTV-2.6.9.apk",
+  "sha256": "59100524a10ce76696be636b441c29a76c75197e09a4165cdfb5f6125f6a485a",
+  "notes": "2.6.9: El navegador integrado ahora abre páginas de GitHub y otras con certificados de Let's Encrypt que Android 6 no reconocía (antes se quedaban cargando sin hacer nada). Antes de aceptarlas verifica que el certificado sea el correcto, y si una página no se puede abrir muestra un aviso en vez de quedarse en silencio."
 }
