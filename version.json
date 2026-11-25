@@ -1,7 +1,7 @@
 {
-  "versionCode": 57,
-  "versionName": "2.6.8.91",
-  "apkUrl": "https://raw.githubusercontent.com/NetMachine/mk-cfg/main/iMonkeyTV-2.6.8.91.apk",
-  "sha256": "8a12417396d973e4310375113faf89ffdbf9021d038fd5c3134862527120c539",
-  "notes": "2.6.8.91: corrige el cierre por falta de memoria al arrancar con un portal STB grande (los canales del portal se leen de a poco y, si aun así falta memoria, el portal se salta sin cerrar la app). Incluye todo lo de 2.6.8.9."
+  "versionCode": 58,
+  "versionName": "2.6.81",
+  "apkUrl": "https://raw.githubusercontent.com/NetMachine/mk-cfg/main/iMonkeyTV-2.6.81.apk",
+  "sha256": "b29aaed5aca5c9233b4bf59bf1d66e11ea2c75f6c09d811e4e7143773755a481",
+  "notes": "2.6.81: verifica también los canales STB (de a uno y despacio, nunca mientras ves algo; Xtream y M3U igual que antes). Ante el error 459 pide un enlace nuevo al reconectar. Menos memoria (no carga los ocultos; cada lista se guarda al llegar). TV en vivo: Favoritos, Ocultos y Verificar pegados a la derecha. Página de credenciales: ahora acepta listas M3U por enlace o texto pegado."
 }
