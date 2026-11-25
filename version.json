@@ -1,7 +1,7 @@
 {
-  "versionCode": 62,
-  "versionName": "2.6.9",
-  "apkUrl": "https://raw.githubusercontent.com/NetMachine/mk-cfg/main/iMonkeyTV-2.6.9.apk",
-  "sha256": "59100524a10ce76696be636b441c29a76c75197e09a4165cdfb5f6125f6a485a",
-  "notes": "2.6.9: El navegador integrado ahora abre páginas de GitHub y otras con certificados de Let's Encrypt que Android 6 no reconocía (antes se quedaban cargando sin hacer nada). Antes de aceptarlas verifica que el certificado sea el correcto, y si una página no se puede abrir muestra un aviso en vez de quedarse en silencio."
+  "versionCode": 63,
+  "versionName": "2.6.91",
+  "apkUrl": "https://raw.githubusercontent.com/NetMachine/mk-cfg/main/iMonkeyTV-2.6.91.apk",
+  "sha256": "2382bc37fee7f686512d9ab8400eef11276660b86d75106b5c0f39f772c92a8d",
+  "notes": "2.6.91: Nuevo modo cliente (interfaz simple con En vivo, Favoritos, Recientes, Guía, Buscar, Fútbol y Ajustes básicos; 11 toques sobre la versión para el modo completo, con clave opcional). Tamaño de la interfaz igual en todos los televisores (Automático o manual, con vista previa). Mini ventana con esquinas redondas alineadas y sin borde sin foco. Equipos iMonkey se buscan solos en las redes de los dos routers, con pantalla «Escaneo de red», prueba de conexión y aviso de NAT. «Respaldar en la nube» ahora muestra lo que hace, guarda 3 copias con fecha (también automático) y muestra qué trae antes de restaurar. Margen seguro 0 % en instalaciones nuevas. Tras un cierre inesperado ofrece enviar el error cifrado."
 }
