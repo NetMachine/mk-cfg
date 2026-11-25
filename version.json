@@ -1,7 +1,7 @@
 {
-  "versionCode": 59,
-  "versionName": "2.6.82",
-  "apkUrl": "https://raw.githubusercontent.com/NetMachine/mk-cfg/main/iMonkeyTV-2.6.82.apk",
-  "sha256": "bef6f957763282025b8a3cd440aed8a00ab5f8d7810e6f794f37e47e17ccf62f",
-  "notes": "2.6.82: Ajustes › Menú principal (ordenar y ocultar secciones). Atrás retrae el menú extendido. Desde un canal: ir a su lista en Mis listas. Icono: zoom de 5 en 5 y color de fondo. Al iniciar, primero revisa si hay actualización. Barra de info unida a los botones, más oscuros. Respaldo completo cifrado en la nube y restaurar. Borrar listas desde la página de credenciales."
+  "versionCode": 60,
+  "versionName": "2.6.83",
+  "apkUrl": "https://raw.githubusercontent.com/NetMachine/mk-cfg/main/iMonkeyTV-2.6.83.apk",
+  "sha256": "7b417e3cdd9ed5de91d47162bf37b48a0e981c0bd174a7c4d94ac4b1546f02fb",
+  "notes": "2.6.83: Agregar dirección en Mis listas muestra primero los canales más parecidos, con la mayor resolución arriba, y después todos. Editor de iconos con vista previa fija, color del dibujo (iconos con fondo transparente), margen ajustable y fondo \"Por defecto\". Avance rápido más fluido al mantener las flechas, sin que el foco se salga de la lista. Opción de teclado integrado en toda la app. Los cambios de nombre o icono desde TV en vivo se guardan también en Mis listas. Opción para desactivar STB por completo (listas STB en pausa, sin borrarse)."
 }
