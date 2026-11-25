@@ -1,7 +1,7 @@
 {
-  "versionCode": 60,
-  "versionName": "2.6.83",
-  "apkUrl": "https://raw.githubusercontent.com/NetMachine/mk-cfg/main/iMonkeyTV-2.6.83.apk",
-  "sha256": "7b417e3cdd9ed5de91d47162bf37b48a0e981c0bd174a7c4d94ac4b1546f02fb",
-  "notes": "2.6.83: Agregar dirección en Mis listas muestra primero los canales más parecidos, con la mayor resolución arriba, y después todos. Editor de iconos con vista previa fija, color del dibujo (iconos con fondo transparente), margen ajustable y fondo \"Por defecto\". Avance rápido más fluido al mantener las flechas, sin que el foco se salga de la lista. Opción de teclado integrado en toda la app. Los cambios de nombre o icono desde TV en vivo se guardan también en Mis listas. Opción para desactivar STB por completo (listas STB en pausa, sin borrarse)."
+  "versionCode": 61,
+  "versionName": "2.6.84",
+  "apkUrl": "https://raw.githubusercontent.com/NetMachine/mk-cfg/main/iMonkeyTV-2.6.84.apk",
+  "sha256": "8618acb6cc418f9b8d3135d2be7c8ff6780c72c41d606f36a4f3de7cc53624ea",
+  "notes": "2.6.84: Los cambios de nombre, icono y aspecto hechos en TV en vivo ahora también quedan en Mis listas, incluidos los anteriores, y \"Restaurar\" también aplica ahí. En el menú del canal siempre está \"Ir a Mis listas\", que lleva a la categoría más parecida. En pantalla completa, el icono es más grande cuando hay guía y la etiqueta muestra la resolución real (1080p FHD, 4K UHD) desde el primer momento. El cambio de categoría en el menú de canales es más fluido."
 }
