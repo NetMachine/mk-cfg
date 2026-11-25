@@ -1,7 +1,7 @@
 {
-  "versionCode": 55,
-  "versionName": "2.6.8.8",
-  "apkUrl": "https://raw.githubusercontent.com/NetMachine/mk-cfg/main/iMonkeyTV-2.6.8.8.apk",
-  "sha256": "ea9bd6ed2ea5ea1dc1f4ff76b29a510a9da1644c390abf3aa4330aa8b638295b",
-  "notes": "2.6.8.8: la franja de info se oculta al abrir el menú de canales; en Info, mismo canal en otras fuentes y resoluciones; barra de estado reordenada (reloj fijo, wifi, RAM, velocidad, ↓↑) y se acorta sola si falta espacio; teclado sin lupa; TV en vivo con iconos (punto verde, número, corazón, SD/HD/FHD/4K, ojo, escudo ✓); «Ahora: programa» al elegir guía; Fútbol con opción para quitar banderas y escudos más grandes en los extremos."
+  "versionCode": 56,
+  "versionName": "2.6.8.9",
+  "apkUrl": "https://raw.githubusercontent.com/NetMachine/mk-cfg/main/iMonkeyTV-2.6.8.9.apk",
+  "sha256": "86c326c828b78ed3dd62eff14f6d17213cf112ea150658da0a50468caf1a910f",
+  "notes": "2.6.8.9: nuevo «Agregar portal STB (MAC)» en Listas (login tipo STBEmu/Stalker con tu portal y MAC); en Info de pantalla completa, canales similares con filtro SD/HD/FHD/4K; ◀/▶ muestra la barra y la 2ª pulsación sube los botones (Atrás los baja); Mis listas: ordenar direcciones por info, subir al primero, bajar al último, modo mover, y el foco ya no salta al menú."
 }
