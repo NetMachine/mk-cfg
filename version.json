@@ -1,7 +1,7 @@
 {
-  "versionCode": 53,
-  "versionName": "2.6.8.6",
-  "apkUrl": "https://raw.githubusercontent.com/NetMachine/mk-cfg/main/iMonkeyTV-2.6.8.6.apk",
-  "sha256": "b31c9158d4eb410a801a1e1a8d880449dfaaaa07c2a5d396ebf82b0baee7f5a4",
-  "notes": "2.6.8.6: Mis listas busca en todos los canales, también los ocultos; Ocultos como explorador (listas › categorías › canales, búsqueda, Ver y Mostrar de nuevo) y botón «Ocultos» en TV en vivo para verlos atenuados; avance progresivo con ↑/↓ mantenido en todas las listas largas; cambiar icono en Mis listas igual que en TV en vivo (también URL escrita); el marco de la mini aparece al terminar de reducirse; «Agregar a Mis listas» elige lista › categoría › canal (nuevo o como dirección extra)."
+  "versionCode": 54,
+  "versionName": "2.6.8.7",
+  "apkUrl": "https://raw.githubusercontent.com/NetMachine/mk-cfg/main/iMonkeyTV-2.6.8.7.apk",
+  "sha256": "4efb8bd14e84dbdd1fb8c8c53b7bd60967f68ef46e17542bf359bbf5337e78d9",
+  "notes": "2.6.8.7: sin señal o 2 fallas seguidas → pasa solo al siguiente canal de la lista (también en Mis listas; opción en Ajustes); Atrás mantenido lleva directo a TV en vivo; botones «SD» y «Favoritos» en TV en vivo; tamaño (zoom) del icono de cada canal; RAM libre en la barra de estado; Fútbol con filas nuevas: bandera de tela con los colores de cada equipo, escudos y nombres grandes."
 }
