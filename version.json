@@ -1,7 +1,7 @@
 {
-  "versionCode": 56,
-  "versionName": "2.6.8.9",
-  "apkUrl": "https://raw.githubusercontent.com/NetMachine/mk-cfg/main/iMonkeyTV-2.6.8.9.apk",
-  "sha256": "86c326c828b78ed3dd62eff14f6d17213cf112ea150658da0a50468caf1a910f",
-  "notes": "2.6.8.9: nuevo «Agregar portal STB (MAC)» en Listas (login tipo STBEmu/Stalker con tu portal y MAC); en Info de pantalla completa, canales similares con filtro SD/HD/FHD/4K; ◀/▶ muestra la barra y la 2ª pulsación sube los botones (Atrás los baja); Mis listas: ordenar direcciones por info, subir al primero, bajar al último, modo mover, y el foco ya no salta al menú."
+  "versionCode": 57,
+  "versionName": "2.6.8.91",
+  "apkUrl": "https://raw.githubusercontent.com/NetMachine/mk-cfg/main/iMonkeyTV-2.6.8.91.apk",
+  "sha256": "8a12417396d973e4310375113faf89ffdbf9021d038fd5c3134862527120c539",
+  "notes": "2.6.8.91: corrige el cierre por falta de memoria al arrancar con un portal STB grande (los canales del portal se leen de a poco y, si aun así falta memoria, el portal se salta sin cerrar la app). Incluye todo lo de 2.6.8.9."
 }
