@@ -1,7 +1,7 @@
 {
-  "versionCode": 54,
-  "versionName": "2.6.8.7",
-  "apkUrl": "https://raw.githubusercontent.com/NetMachine/mk-cfg/main/iMonkeyTV-2.6.8.7.apk",
-  "sha256": "4efb8bd14e84dbdd1fb8c8c53b7bd60967f68ef46e17542bf359bbf5337e78d9",
-  "notes": "2.6.8.7: sin señal o 2 fallas seguidas → pasa solo al siguiente canal de la lista (también en Mis listas; opción en Ajustes); Atrás mantenido lleva directo a TV en vivo; botones «SD» y «Favoritos» en TV en vivo; tamaño (zoom) del icono de cada canal; RAM libre en la barra de estado; Fútbol con filas nuevas: bandera de tela con los colores de cada equipo, escudos y nombres grandes."
+  "versionCode": 55,
+  "versionName": "2.6.8.8",
+  "apkUrl": "https://raw.githubusercontent.com/NetMachine/mk-cfg/main/iMonkeyTV-2.6.8.8.apk",
+  "sha256": "ea9bd6ed2ea5ea1dc1f4ff76b29a510a9da1644c390abf3aa4330aa8b638295b",
+  "notes": "2.6.8.8: la franja de info se oculta al abrir el menú de canales; en Info, mismo canal en otras fuentes y resoluciones; barra de estado reordenada (reloj fijo, wifi, RAM, velocidad, ↓↑) y se acorta sola si falta espacio; teclado sin lupa; TV en vivo con iconos (punto verde, número, corazón, SD/HD/FHD/4K, ojo, escudo ✓); «Ahora: programa» al elegir guía; Fútbol con opción para quitar banderas y escudos más grandes en los extremos."
 }
