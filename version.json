@@ -1,7 +1,7 @@
 {
-  "versionCode": 65,
-  "versionName": "2.6.93",
-  "apkUrl": "https://raw.githubusercontent.com/NetMachine/mk-cfg/main/iMonkeyTV-2.6.93.apk",
-  "sha256": "955b07c793c9494a73c080aeea0f3eebf7da6526b12b3846b556023b7a08f96a",
-  "notes": "2.6.93: respaldos grandes por partes; asistente de primer inicio con mensajes claros (no culpa la clave) y «Subir todas a la nube»; barra de estado con reloj fijo sin tocar el logo; títulos en blanco; TV en vivo con buscador abajo y marco para Mis listas y categorías; Listas hasta el borde sin franja y borrar varias a la vez; Agregar a Mis listas desde Favoritos y Buscar; recuperar listas borradas (también desde un canal); ver y quitar ocultos desde el menú del canal; Favoritos en cuadros o lista; icono de pantalla completa."
+  "versionCode": 66,
+  "versionName": "2.6.94",
+  "apkUrl": "https://raw.githubusercontent.com/NetMachine/mk-cfg/main/iMonkeyTV-2.6.94.apk",
+  "sha256": "9eaf7220bf7eb9edacc73003ce9bfba5b1ec0310cdb3d0bb9f2e784258e59265",
+  "notes": "2.6.94: iconos instantáneos. Miniatura fija de cada logo guardada en la app, cuadro con iniciales mientras falta, descarga en segundo plano que se pausa al hacer scroll o cambiar de canal; opciones en Ajustes › Rendimiento."
 }
