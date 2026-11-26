@@ -1,7 +1,7 @@
 {
-  "versionCode": 68,
-  "versionName": "2.6.96",
-  "apkUrl": "https://raw.githubusercontent.com/NetMachine/mk-cfg/main/iMonkeyTV-2.6.96.apk",
-  "sha256": "e50605ec14d981ac7ee9ce8f14af96210d387afca019ebb0e95dd88f208faaf7",
-  "notes": "2.6.96: cambio de sección más fluido (fundido opcional en Ajustes › Rendimiento y memoria). Al elegir una sección, el foco entra en ella y el menú se contrae. Video en vivo al tamaño de antes. Fila de Servidores/Categorías más limpia: ▲ va al anclado, ▼ a Todos, OK pasa a la lista; «Esconder del selector». Anclado con nuevo aspecto, sin «Mis listas». Guía con vista previa a la derecha, hora real y textos sin cortes. Iconos parecidos revisados en segundo plano. Buscador en Ajustes y Actualizaciones al final."
+  "versionCode": 69,
+  "versionName": "2.6.97",
+  "apkUrl": "https://raw.githubusercontent.com/NetMachine/mk-cfg/main/iMonkeyTV-2.6.97.apk",
+  "sha256": "003ad5dd7d66a7f62aadc650ce8aa8b7f56dfc2f80c877620c70a3cb7d2cf854",
+  "notes": "2.6.97: Ajustes llega hasta el final y muestra la versión arriba a la derecha. En pantalla completa, el menú de canales muestra el nombre del servidor y permite cambiarlo (▲ al título y OK, o tecla azul). En TV en vivo, ◀ lleva directo al menú lateral."
 }
