@@ -1,7 +1,7 @@
 {
-  "versionCode": 64,
-  "versionName": "2.6.92",
-  "apkUrl": "https://raw.githubusercontent.com/NetMachine/mk-cfg/main/iMonkeyTV-2.6.92.apk",
-  "sha256": "d40a370d53eea86b664598c77b4f35d318938c1b475f4abc7589083773082814",
-  "notes": "2.6.92: opción «Solo Mis listas» y asistente de primer inicio (clave o QR, baja tu Mis lista de la nube); STB apagado en instalaciones nuevas; restaurar respaldo respeta listas activas/desactivadas y ocultos; respaldo como espejo (borradas recuperables 7 días); verificación empieza por Favoritos y Mis listas; Equipos: enviar respaldo, enviar Mis listas, cambios automáticos, mensajes de texto y enviar un canal; arreglo de las filas que tiritaban en Listas (Fuse 4K)."
+  "versionCode": 65,
+  "versionName": "2.6.93",
+  "apkUrl": "https://raw.githubusercontent.com/NetMachine/mk-cfg/main/iMonkeyTV-2.6.93.apk",
+  "sha256": "955b07c793c9494a73c080aeea0f3eebf7da6526b12b3846b556023b7a08f96a",
+  "notes": "2.6.93: respaldos grandes por partes; asistente de primer inicio con mensajes claros (no culpa la clave) y «Subir todas a la nube»; barra de estado con reloj fijo sin tocar el logo; títulos en blanco; TV en vivo con buscador abajo y marco para Mis listas y categorías; Listas hasta el borde sin franja y borrar varias a la vez; Agregar a Mis listas desde Favoritos y Buscar; recuperar listas borradas (también desde un canal); ver y quitar ocultos desde el menú del canal; Favoritos en cuadros o lista; icono de pantalla completa."
 }
