@@ -1,7 +1,7 @@
 {
-  "versionCode": 70,
-  "versionName": "2.6.98",
-  "apkUrl": "https://raw.githubusercontent.com/NetMachine/mk-cfg/main/iMonkeyTV-2.6.98.apk",
-  "sha256": "3c5fab51263f43f285de209083492f59322bfc09d2108da5b7b4b05918063588",
-  "notes": "2.6.98: favoritos por canal y servidor (ya no se marcan en otro servidor). ◀ desde el video abre el menú lateral. Servidor anclado siempre amarillo, sin chincheta. Nuevo «Todos» seleccionado y corazón rojo. Ordenar canales (A–Z, más vistos, resolución, guía, funcionando…), opciones en Ajustes. Buscador de Ajustes se limpia al salir. Editor de iconos: mover el icono, fondo Inteligente y opacidad. Pantalla completa: botón de servidor con ◀ ▶."
+  "versionCode": 71,
+  "versionName": "2.6.99",
+  "apkUrl": "https://raw.githubusercontent.com/NetMachine/mk-cfg/main/iMonkeyTV-2.6.99.apk",
+  "sha256": "c5188b9a8f988891615ca7494f80e085019ec9a63033a6af544ee6a38cd0bbcb",
+  "notes": "2.6.99: entrar a Servidores y categorías ya no pasa por el menú principal. Los cambios de icono se ven al instante en TV en vivo y pantalla completa. Nuevo: abrir la app al encender el deco (Ajustes › Servidores y canales). Nuevo: Estadísticas de servidores en Ajustes."
 }
