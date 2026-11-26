@@ -1,7 +1,7 @@
 {
-  "versionCode": 69,
-  "versionName": "2.6.97",
-  "apkUrl": "https://raw.githubusercontent.com/NetMachine/mk-cfg/main/iMonkeyTV-2.6.97.apk",
-  "sha256": "003ad5dd7d66a7f62aadc650ce8aa8b7f56dfc2f80c877620c70a3cb7d2cf854",
-  "notes": "2.6.97: Ajustes llega hasta el final y muestra la versión arriba a la derecha. En pantalla completa, el menú de canales muestra el nombre del servidor y permite cambiarlo (▲ al título y OK, o tecla azul). En TV en vivo, ◀ lleva directo al menú lateral."
+  "versionCode": 70,
+  "versionName": "2.6.98",
+  "apkUrl": "https://raw.githubusercontent.com/NetMachine/mk-cfg/main/iMonkeyTV-2.6.98.apk",
+  "sha256": "3c5fab51263f43f285de209083492f59322bfc09d2108da5b7b4b05918063588",
+  "notes": "2.6.98: favoritos por canal y servidor (ya no se marcan en otro servidor). ◀ desde el video abre el menú lateral. Servidor anclado siempre amarillo, sin chincheta. Nuevo «Todos» seleccionado y corazón rojo. Ordenar canales (A–Z, más vistos, resolución, guía, funcionando…), opciones en Ajustes. Buscador de Ajustes se limpia al salir. Editor de iconos: mover el icono, fondo Inteligente y opacidad. Pantalla completa: botón de servidor con ◀ ▶."
 }
