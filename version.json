@@ -1,7 +1,7 @@
 {
-  "versionCode": 67,
-  "versionName": "2.6.95",
-  "apkUrl": "https://raw.githubusercontent.com/NetMachine/mk-cfg/main/iMonkeyTV-2.6.95.apk",
-  "sha256": "2d8c678a2148a02e96e7c9e5a2bb8ed98ba41508c8d6a02bf76dfd73bfc580fa",
-  "notes": "2.6.95: «Listas» ahora se llama «Servidores», con servidor anclado, colores y menú con OK mantenido. Guía a pantalla completa con vista previa (OK reproduce, OK mantenido abre la ficha). Scroll de Favoritos en cuadros arreglado. Iconos se descargan al estar en vista y, si falta, se usa uno parecido de otro canal. Mis listas se suben a la nube en segundo plano (arregla NetworkOnMainThreadException). Fútbol bajo Favoritos en el menú y banderas de fondo apagadas por defecto."
+  "versionCode": 68,
+  "versionName": "2.6.96",
+  "apkUrl": "https://raw.githubusercontent.com/NetMachine/mk-cfg/main/iMonkeyTV-2.6.96.apk",
+  "sha256": "e50605ec14d981ac7ee9ce8f14af96210d387afca019ebb0e95dd88f208faaf7",
+  "notes": "2.6.96: cambio de sección más fluido (fundido opcional en Ajustes › Rendimiento y memoria). Al elegir una sección, el foco entra en ella y el menú se contrae. Video en vivo al tamaño de antes. Fila de Servidores/Categorías más limpia: ▲ va al anclado, ▼ a Todos, OK pasa a la lista; «Esconder del selector». Anclado con nuevo aspecto, sin «Mis listas». Guía con vista previa a la derecha, hora real y textos sin cortes. Iconos parecidos revisados en segundo plano. Buscador en Ajustes y Actualizaciones al final."
 }
