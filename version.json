@@ -1,7 +1,7 @@
 {
-  "versionCode": 71,
-  "versionName": "2.6.99",
-  "apkUrl": "https://raw.githubusercontent.com/NetMachine/mk-cfg/main/iMonkeyTV-2.6.99.apk",
-  "sha256": "c5188b9a8f988891615ca7494f80e085019ec9a63033a6af544ee6a38cd0bbcb",
-  "notes": "2.6.99: entrar a Servidores y categorías ya no pasa por el menú principal. Los cambios de icono se ven al instante en TV en vivo y pantalla completa. Nuevo: abrir la app al encender el deco (Ajustes › Servidores y canales). Nuevo: Estadísticas de servidores en Ajustes."
+  "versionCode": 72,
+  "versionName": "2.7.0",
+  "apkUrl": "https://raw.githubusercontent.com/NetMachine/mk-cfg/main/iMonkeyTV-2.7.0.apk",
+  "sha256": "5bcda404aa862e3df7321b9bafdf6046abab3a6e2e22856f654e1486a99a5772",
+  "notes": "2.7.0: los canales de Mis listas ya no aparecen «sin señal» si algún respaldo funciona. Nuevo: Ajustes › Registro › Enviar diagnóstico (cifrado, con usuarios y claves tapados)."
 }
