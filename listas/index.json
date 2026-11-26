@@ -1,0 +1,10 @@
+{
+ "v": 1,
+ "kind": "imk-index",
+ "kdf": "PBKDF2-SHA256",
+ "iter": 310000,
+ "alg": "AES-256-GCM",
+ "salt": "s2SoI2sCEvCsj123AoCEhQ==",
+ "iv": "0YM8ggT2eqYSKfg1",
+ "ct": "j4SLrU7U0sK5IhqJbrS0F6WK0YJFybTY4FC7okeuCwoWrv43lHC\/LmoHybazMUN\/uMD57xr+rvhQxIEw2y6kMyoe4yI5vc1kW4YOu93UqTesk7uFnJA\/ko53R2QMiy7Ivf5C8+8LqqhXSHQHeOskWSgEo9ct\/4Xl0o1oV0K+hiFUMl0fpOKoDxQpf6w="
+}
