@@ -1,7 +1,7 @@
 {
-  "versionCode": 73,
-  "versionName": "2.7.1",
-  "apkUrl": "https://raw.githubusercontent.com/NetMachine/mk-cfg/main/iMonkeyTV-2.7.1.apk",
-  "sha256": "4a4ef44411c89903cb62f0443be2a79c5a18c8ba58aaf0989558683c42f6c13d",
-  "notes": "2.7.1: «Cambiar icono» muestra los iconos de todos los servidores (también ocultos), banco de logos de iptv-org y «Buscar en internet» (Wikipedia y TVmaze). Abrir al encender reintenta hasta 30 s."
+  "versionCode": 74,
+  "versionName": "2.7.2",
+  "apkUrl": "https://raw.githubusercontent.com/NetMachine/mk-cfg/main/iMonkeyTV-2.7.2.apk",
+  "sha256": "0141b815c8b2487a58e73595d4547524defeb210e121b15aa1a0fa7713e0c9b0",
+  "notes": "2.7.2: «Abrir al encender el deco» ahora abre la app en el mismo instante del aviso de encendido (como Launch on Boot) y luego reintenta hasta 30 s."
 }
