@@ -1,7 +1,7 @@
 {
-  "versionCode": 63,
-  "versionName": "2.6.91",
-  "apkUrl": "https://raw.githubusercontent.com/NetMachine/mk-cfg/main/iMonkeyTV-2.6.91.apk",
-  "sha256": "2382bc37fee7f686512d9ab8400eef11276660b86d75106b5c0f39f772c92a8d",
-  "notes": "2.6.91: Nuevo modo cliente (interfaz simple con En vivo, Favoritos, Recientes, Guía, Buscar, Fútbol y Ajustes básicos; 11 toques sobre la versión para el modo completo, con clave opcional). Tamaño de la interfaz igual en todos los televisores (Automático o manual, con vista previa). Mini ventana con esquinas redondas alineadas y sin borde sin foco. Equipos iMonkey se buscan solos en las redes de los dos routers, con pantalla «Escaneo de red», prueba de conexión y aviso de NAT. «Respaldar en la nube» ahora muestra lo que hace, guarda 3 copias con fecha (también automático) y muestra qué trae antes de restaurar. Margen seguro 0 % en instalaciones nuevas. Tras un cierre inesperado ofrece enviar el error cifrado."
+  "versionCode": 64,
+  "versionName": "2.6.92",
+  "apkUrl": "https://raw.githubusercontent.com/NetMachine/mk-cfg/main/iMonkeyTV-2.6.92.apk",
+  "sha256": "d40a370d53eea86b664598c77b4f35d318938c1b475f4abc7589083773082814",
+  "notes": "2.6.92: opción «Solo Mis listas» y asistente de primer inicio (clave o QR, baja tu Mis lista de la nube); STB apagado en instalaciones nuevas; restaurar respaldo respeta listas activas/desactivadas y ocultos; respaldo como espejo (borradas recuperables 7 días); verificación empieza por Favoritos y Mis listas; Equipos: enviar respaldo, enviar Mis listas, cambios automáticos, mensajes de texto y enviar un canal; arreglo de las filas que tiritaban en Listas (Fuse 4K)."
 }
