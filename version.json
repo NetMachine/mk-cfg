@@ -1,7 +1,7 @@
 {
-  "versionCode": 72,
-  "versionName": "2.7.0",
-  "apkUrl": "https://raw.githubusercontent.com/NetMachine/mk-cfg/main/iMonkeyTV-2.7.0.apk",
-  "sha256": "5bcda404aa862e3df7321b9bafdf6046abab3a6e2e22856f654e1486a99a5772",
-  "notes": "2.7.0: los canales de Mis listas ya no aparecen «sin señal» si algún respaldo funciona. Nuevo: Ajustes › Registro › Enviar diagnóstico (cifrado, con usuarios y claves tapados)."
+  "versionCode": 73,
+  "versionName": "2.7.1",
+  "apkUrl": "https://raw.githubusercontent.com/NetMachine/mk-cfg/main/iMonkeyTV-2.7.1.apk",
+  "sha256": "4a4ef44411c89903cb62f0443be2a79c5a18c8ba58aaf0989558683c42f6c13d",
+  "notes": "2.7.1: «Cambiar icono» muestra los iconos de todos los servidores (también ocultos), banco de logos de iptv-org y «Buscar en internet» (Wikipedia y TVmaze). Abrir al encender reintenta hasta 30 s."
 }
