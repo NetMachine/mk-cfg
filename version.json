@@ -1,7 +1,7 @@
 {
-  "versionCode": 66,
-  "versionName": "2.6.94",
-  "apkUrl": "https://raw.githubusercontent.com/NetMachine/mk-cfg/main/iMonkeyTV-2.6.94.apk",
-  "sha256": "9eaf7220bf7eb9edacc73003ce9bfba5b1ec0310cdb3d0bb9f2e784258e59265",
-  "notes": "2.6.94: iconos instantáneos. Miniatura fija de cada logo guardada en la app, cuadro con iniciales mientras falta, descarga en segundo plano que se pausa al hacer scroll o cambiar de canal; opciones en Ajustes › Rendimiento."
+  "versionCode": 67,
+  "versionName": "2.6.95",
+  "apkUrl": "https://raw.githubusercontent.com/NetMachine/mk-cfg/main/iMonkeyTV-2.6.95.apk",
+  "sha256": "2d8c678a2148a02e96e7c9e5a2bb8ed98ba41508c8d6a02bf76dfd73bfc580fa",
+  "notes": "2.6.95: «Listas» ahora se llama «Servidores», con servidor anclado, colores y menú con OK mantenido. Guía a pantalla completa con vista previa (OK reproduce, OK mantenido abre la ficha). Scroll de Favoritos en cuadros arreglado. Iconos se descargan al estar en vista y, si falta, se usa uno parecido de otro canal. Mis listas se suben a la nube en segundo plano (arregla NetworkOnMainThreadException). Fútbol bajo Favoritos en el menú y banderas de fondo apagadas por defecto."
 }
