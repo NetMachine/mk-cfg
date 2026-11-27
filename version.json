@@ -1,7 +1,7 @@
 {
-  "versionCode": 75,
-  "versionName": "2.7.3",
-  "apkUrl": "https://raw.githubusercontent.com/NetMachine/mk-cfg/main/iMonkeyTV-2.7.3.apk",
-  "sha256": "8a4c11268ef4fa406cf2a4427fbf425d58df01cde9b9d4028fbee19159b5e3b2",
-  "notes": "2.7.3: arreglado cierre en TV en vivo (zona Servidores); al abrir, el selector queda en el canal en pantalla; nombres de servidores sincronizados entre equipos; menú completo con OK mantenido en Categorías; el foco ya no salta al menú lateral y vuelve al mismo elemento al cerrar menús; guía escalada según la pantalla (Fuse 4K); «Ir a Mis listas» lleva directo al canal."
+  "versionCode": 76,
+  "versionName": "2.7.4",
+  "apkUrl": "https://raw.githubusercontent.com/NetMachine/mk-cfg/main/iMonkeyTV-2.7.4.apk",
+  "sha256": "c037c34970ee5eddd674f3d96369a6dfb991482ef3b41f76191eec2c98744c85",
+  "notes": "2.7.4: al abrir se aplica la lista anclada y el selector queda en el canal en pantalla; el foco solo va al menú lateral con ◀; el logo de inicio se difumina cuando todo está listo y el video cargado; recibir imagen de icono por la red (QR); la guía vuelve a su tamaño en pantallas como la caja."
 }
