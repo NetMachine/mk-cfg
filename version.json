@@ -1,7 +1,7 @@
 {
-  "versionCode": 81,
-  "versionName": "2.7.9",
-  "apkUrl": "https://raw.githubusercontent.com/NetMachine/mk-cfg/main/iMonkeyTV-2.7.9.apk",
-  "sha256": "6112cfcbe2d3d3cce0f690b6840ec19237799782c4a98d1371238c84f63e9938",
-  "notes": "2.7.9: nuevo «Monitor de rendimiento» en Ajustes › Registro: mide tirones, CPU por parte de la app, memoria y fps del video para encontrar qué causa la lentitud. Incluye todo lo de 2.7.8 (el video primero)."
+  "versionCode": 82,
+  "versionName": "2.8.0",
+  "apkUrl": "https://raw.githubusercontent.com/NetMachine/mk-cfg/main/iMonkeyTV-2.8.0.apk",
+  "sha256": "1514cb7fa67297f4191afe8ae4f74006de339dddee0505117e5509bff5c46d7b",
+  "notes": "2.8.0: arranque mucho más liviano. Al abrir ya no se bajan todos los servidores: solo los que tienen más de 6 horas, de a uno y después del video; si un servidor no cambió, no se reescribe nada («Actualizar listas» sigue bajando todo). La búsqueda de equipos ya no recorre redes enteras (eso queda en «Escanear ahora»)."
 }
