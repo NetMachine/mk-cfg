@@ -1,7 +1,7 @@
 {
-  "versionCode": 79,
-  "versionName": "2.7.7",
-  "apkUrl": "https://raw.githubusercontent.com/NetMachine/mk-cfg/main/iMonkeyTV-2.7.7.apk",
-  "sha256": "30c59a76f4cbb8b36d8b59c1648a8613367bcf69eeb89dbbd30f81ce5d0ebcb3",
-  "notes": "2.7.7: vuelve al funcionamiento de 2.7.4 para recuperar la fluidez y evitar cortes de video. Se quitan por ahora los cambios de 2.7.5 y 2.7.6; volverán de a uno. Tus datos se conservan."
+  "versionCode": 80,
+  "versionName": "2.7.8",
+  "apkUrl": "https://raw.githubusercontent.com/NetMachine/mk-cfg/main/iMonkeyTV-2.7.8.apk",
+  "sha256": "4adbea77ba69312c12ae2cb458269c4d148894083ec2a7579961aaf8d97eda23",
+  "notes": "2.7.8: el video primero. Al abrir ya no se revisan todos los iconos: se cargan al tiro los del servidor anclado, Mis listas y Favoritos, y el resto después, cuando el video está estable. Las tareas de fondo esperan mientras un canal arranca o se recupera. Si el canal se queda atrás del vivo, se resincroniza o se reabre solo. Mis listas se revisa en la nube cada 15 min («Revisar ahora» sigue disponible)."
 }
