@@ -1,7 +1,7 @@
 {
-  "versionCode": 74,
-  "versionName": "2.7.2",
-  "apkUrl": "https://raw.githubusercontent.com/NetMachine/mk-cfg/main/iMonkeyTV-2.7.2.apk",
-  "sha256": "0141b815c8b2487a58e73595d4547524defeb210e121b15aa1a0fa7713e0c9b0",
-  "notes": "2.7.2: «Abrir al encender el deco» ahora abre la app en el mismo instante del aviso de encendido (como Launch on Boot) y luego reintenta hasta 30 s."
+  "versionCode": 75,
+  "versionName": "2.7.3",
+  "apkUrl": "https://raw.githubusercontent.com/NetMachine/mk-cfg/main/iMonkeyTV-2.7.3.apk",
+  "sha256": "8a4c11268ef4fa406cf2a4427fbf425d58df01cde9b9d4028fbee19159b5e3b2",
+  "notes": "2.7.3: arreglado cierre en TV en vivo (zona Servidores); al abrir, el selector queda en el canal en pantalla; nombres de servidores sincronizados entre equipos; menú completo con OK mantenido en Categorías; el foco ya no salta al menú lateral y vuelve al mismo elemento al cerrar menús; guía escalada según la pantalla (Fuse 4K); «Ir a Mis listas» lleva directo al canal."
 }
