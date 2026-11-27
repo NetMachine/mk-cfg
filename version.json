@@ -1,7 +1,7 @@
 {
-  "versionCode": 78,
-  "versionName": "2.7.6",
-  "apkUrl": "https://raw.githubusercontent.com/NetMachine/mk-cfg/main/iMonkeyTV-2.7.6.apk",
-  "sha256": "946bacdddbb46fd56bab43348f97fbdbcdbc3d1c81979e12f341e6e08d50488d",
-  "notes": "2.7.6: los cambios en Mis listas se ven al instante en TV en vivo (y la guía asignada viaja con la lista); solo se verifican los canales nuevos; la guía abre al instante y se va llenando; nombres de servidores completos en pantallas chicas; el orden de los servidores se sincroniza entre equipos."
+  "versionCode": 79,
+  "versionName": "2.7.7",
+  "apkUrl": "https://raw.githubusercontent.com/NetMachine/mk-cfg/main/iMonkeyTV-2.7.7.apk",
+  "sha256": "30c59a76f4cbb8b36d8b59c1648a8613367bcf69eeb89dbbd30f81ce5d0ebcb3",
+  "notes": "2.7.7: vuelve al funcionamiento de 2.7.4 para recuperar la fluidez y evitar cortes de video. Se quitan por ahora los cambios de 2.7.5 y 2.7.6; volverán de a uno. Tus datos se conservan."
 }
