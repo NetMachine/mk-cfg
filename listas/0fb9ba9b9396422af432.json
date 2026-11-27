@@ -1,0 +1,10 @@
+{
+ "v": 1,
+ "kind": "srvalias",
+ "kdf": "PBKDF2-SHA256",
+ "iter": 310000,
+ "alg": "AES-256-GCM",
+ "salt": "exBPzbQkrc+BScFoIlLzMw==",
+ "iv": "Pz0tiJtiuRu13Tfk",
+ "ct": "kfd6n\/OQMhOn0g+T7zJWrufxwzIFu+lLhWsD93LUIe+5fMg6VvhSHvIs2sgH3gCZZPedjhaSQ1cq9berQcUg+oYjz9mM6QdEA31+p\/l650kkzqc\/G2QpMlnfU+afFr6PF5n4rkWgHoFtd+FcHuvNsm1\/quFUbIVl\/sP6javXIvr8dNkdei1q1EkK6K8IGBCpeqKZVTp0+AIMzKm5cSUESWsmyPVZ84XdefbGB5PrkRg0iqrw2onXVpZK1gEbdipjIozW3e5TCEkbrUVqdmhG3SQxGJD3bgbFS\/wMXVqvL8MlAmQEmKAnmQRL3DQ1q09AYAVXjOeGhv+9DwtWnfnwrxkY3wmdeKIMel081RP9NKDhqzvG4AXAbgMtsPwdlAJMAGND1nn1Q+Ek+5jOfS3SzDBtgxoAL96AKg4MFBtj0zjZop68JAJYZlV9IlS4tg02ykJ4IeL09xymOl+5POTgIshl182ioxzW5xpkF6GJO7QTP055c7a+xjRJdl2ssjZamk2kmvAXi0GIJoXv03oaLoKZN+6gVzLzK07h8vvR1dXbUr2reX3a0GB9wJIrCF9XOJGNLdg6SA\/WkUt9kedcnrc+XUm6JG7Pb4Z20iJ6ET3S8pQmmEX0Ww8nrpaKngaa3Q3X4NWrZIfZAuptc0zmnc2A2dCJEFaTP09ityplZUIfnRttIvi+0bQD64t2DjRDgZJE2UgvHsTgAOCbVaNisOtIUKGw09\/T2ICFcU3kW9L5qSaR57SeqPaCvSpjgM66WTzNQPNEFgPy6jU34xt7pCOrga6wCvqcJoFeCB62oW4KbvXTj+ncVFGAdlfTJOkyE0jj0g3BZm0zpdHrydJHGeyHt+H4jfvGehZIE18NbSOLqklsGRLmxjYmUU4cm6Yy4aTtFQUBzzhYVWvwwM+xBDQi+z8zN4vZ+3OseWq1Ew6tnC1H59VXfriRoIZu8BwWQ7LOW8Xq3crw\/SOI2QVJ20y3DxIqapjB9wBgl4MLcVxywPZ6vGkYbVgrWCaa6Wzsfx8G3mfuroD05A=="
+}
