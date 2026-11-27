@@ -1,7 +1,7 @@
 {
-  "versionCode": 80,
-  "versionName": "2.7.8",
-  "apkUrl": "https://raw.githubusercontent.com/NetMachine/mk-cfg/main/iMonkeyTV-2.7.8.apk",
-  "sha256": "4adbea77ba69312c12ae2cb458269c4d148894083ec2a7579961aaf8d97eda23",
-  "notes": "2.7.8: el video primero. Al abrir ya no se revisan todos los iconos: se cargan al tiro los del servidor anclado, Mis listas y Favoritos, y el resto después, cuando el video está estable. Las tareas de fondo esperan mientras un canal arranca o se recupera. Si el canal se queda atrás del vivo, se resincroniza o se reabre solo. Mis listas se revisa en la nube cada 15 min («Revisar ahora» sigue disponible)."
+  "versionCode": 81,
+  "versionName": "2.7.9",
+  "apkUrl": "https://raw.githubusercontent.com/NetMachine/mk-cfg/main/iMonkeyTV-2.7.9.apk",
+  "sha256": "6112cfcbe2d3d3cce0f690b6840ec19237799782c4a98d1371238c84f63e9938",
+  "notes": "2.7.9: nuevo «Monitor de rendimiento» en Ajustes › Registro: mide tirones, CPU por parte de la app, memoria y fps del video para encontrar qué causa la lentitud. Incluye todo lo de 2.7.8 (el video primero)."
 }
