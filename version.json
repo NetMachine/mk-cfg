@@ -1,7 +1,7 @@
 {
-  "versionCode": 77,
-  "versionName": "2.7.5",
-  "apkUrl": "https://raw.githubusercontent.com/NetMachine/mk-cfg/main/iMonkeyTV-2.7.5.apk",
-  "sha256": "eb73b16809d9d8a25918b77162c8d103480414ec38bd1b617661f49bf9a739bf",
-  "notes": "2.7.5: guías e iconos propios ya no se pierden; servidores, categorías y canales ocultos se sincronizan entre equipos; Mis listas viajan por la red sin token; volumen correcto en canales Dolby/DTS (opción de sonido envolvente); diálogos y botones bien en el Fuse 4K; cambiar el nombre de un servidor no rompe nada; punto verde/rojo de estado en cada servidor."
+  "versionCode": 78,
+  "versionName": "2.7.6",
+  "apkUrl": "https://raw.githubusercontent.com/NetMachine/mk-cfg/main/iMonkeyTV-2.7.6.apk",
+  "sha256": "946bacdddbb46fd56bab43348f97fbdbcdbc3d1c81979e12f341e6e08d50488d",
+  "notes": "2.7.6: los cambios en Mis listas se ven al instante en TV en vivo (y la guía asignada viaja con la lista); solo se verifican los canales nuevos; la guía abre al instante y se va llenando; nombres de servidores completos en pantallas chicas; el orden de los servidores se sincroniza entre equipos."
 }
