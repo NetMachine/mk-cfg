@@ -1,7 +1,7 @@
 {
-  "versionCode": 86,
-  "versionName": "2.8.4",
-  "apkUrl": "https://raw.githubusercontent.com/NetMachine/mk-cfg/main/iMonkeyTV-2.8.4.apk",
-  "sha256": "6c0719e3fcf4391ca821ce9bbdc4add135e0960afc6da317c5aca8d8a11837c5",
-  "notes": "2.8.4: cambio de canal más rápido (sin imagen congelada del canal anterior); el menú de canales de pantalla completa abre fluido desde la primera vez; al mantener ↑/↓ el selector queda fijo en todas las listas; en Servidores y Categorías la lista cambia sola al quedarse quieto y OK se queda en la zona; animación de carga en la lista; «Verificar» revisa solo la lista visible (Verificar todo aparte); nuevo «Volumen nivelado» (Ajustes › Reproductor, apagado); listas guardadas por diferencias y guía solo para los canales en uso, con búsqueda de guía instantánea."
+  "versionCode": 87,
+  "versionName": "2.8.5",
+  "apkUrl": "https://raw.githubusercontent.com/NetMachine/mk-cfg/main/iMonkeyTV-2.8.5.apk",
+  "sha256": "3df446759297cf1ed0656c37477b6c073ce00fbebba7d29bd367099f052f7b26",
+  "notes": "2.8.5: al cambiar de servidor la lista muestra «Cargando canales de…» y nunca la lista anterior; ajuste para apagar la vista previa al recorrer Servidores y Categorías (cambia solo con OK); Mis listas › Agregar dirección también busca en canales y categorías ocultos; los iconos propios de canal (de internet o desde archivo) llegan a los otros equipos con el respaldo, sin pisar lo editado en cada equipo; Favoritos en grilla o lista con estado, resolución, servidor y programa actual; ocultar y ordenar en grilla los botones de la barra de info y el menú principal; Ajustes reorganizados en secciones claras con iconos (mismas opciones); la mini ventana fuera de la app detecta si el equipo la permite y usa la ventana flotante propia o avisa."
 }
