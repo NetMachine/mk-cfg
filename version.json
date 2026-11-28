@@ -1,7 +1,7 @@
 {
-  "versionCode": 85,
-  "versionName": "2.8.3",
-  "apkUrl": "https://raw.githubusercontent.com/NetMachine/mk-cfg/main/iMonkeyTV-2.8.3.apk",
-  "sha256": "293c3a888b28c0bfe22614b53ef111461ad1c035ef1ee39f47541d375b0cd8f6",
-  "notes": "2.8.3: en TV en vivo › Servidores cada servidor muestra su número de canales y un punto verde (en línea) o rojo (sin conexión), con un círculo mientras se descarga; al mantener ↑/↓ el selector queda fijo en el tope y pasan los canales, en TV en vivo y en la lista de pantalla completa."
+  "versionCode": 86,
+  "versionName": "2.8.4",
+  "apkUrl": "https://raw.githubusercontent.com/NetMachine/mk-cfg/main/iMonkeyTV-2.8.4.apk",
+  "sha256": "6c0719e3fcf4391ca821ce9bbdc4add135e0960afc6da317c5aca8d8a11837c5",
+  "notes": "2.8.4: cambio de canal más rápido (sin imagen congelada del canal anterior); el menú de canales de pantalla completa abre fluido desde la primera vez; al mantener ↑/↓ el selector queda fijo en todas las listas; en Servidores y Categorías la lista cambia sola al quedarse quieto y OK se queda en la zona; animación de carga en la lista; «Verificar» revisa solo la lista visible (Verificar todo aparte); nuevo «Volumen nivelado» (Ajustes › Reproductor, apagado); listas guardadas por diferencias y guía solo para los canales en uso, con búsqueda de guía instantánea."
 }
