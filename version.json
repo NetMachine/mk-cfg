@@ -1,7 +1,7 @@
 {
-  "versionCode": 83,
-  "versionName": "2.8.1",
-  "apkUrl": "https://raw.githubusercontent.com/NetMachine/mk-cfg/main/iMonkeyTV-2.8.1.apk",
-  "sha256": "1c1f1dc05a8c028d67c4f6c4f28deaf3328c1c23f69e577709be485c5518f02b",
-  "notes": "2.8.1: inicio nuevo que espera lo esencial y muestra cada paso; en el Fuse espera a que el decodificador quede libre y reintenta en vez de cerrarse; avance mantenido fluido con tope de velocidad ajustable; vuelve el ajuste de volumen por la app (sonido envolvente apagado); la guía ya no se borra sola; nombre de la wifi; aviso de actualización después de entrar."
+  "versionCode": 84,
+  "versionName": "2.8.2",
+  "apkUrl": "https://raw.githubusercontent.com/NetMachine/mk-cfg/main/iMonkeyTV-2.8.2.apk",
+  "sha256": "0480565c663e61548e028206c6763b2594eff4a8f97e6f4a31ee42ab3dc0408a",
+  "notes": "2.8.2: el avance mantenido hacia arriba ya no rebota; velocidad máxima ahora desde 30 ms (prueba); al volver de la mini ventana a TV en vivo, el video espera a que se vea la pantalla y vuelve a su lugar con animación."
 }
