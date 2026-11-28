@@ -1,7 +1,7 @@
 {
-  "versionCode": 82,
-  "versionName": "2.8.0",
-  "apkUrl": "https://raw.githubusercontent.com/NetMachine/mk-cfg/main/iMonkeyTV-2.8.0.apk",
-  "sha256": "1514cb7fa67297f4191afe8ae4f74006de339dddee0505117e5509bff5c46d7b",
-  "notes": "2.8.0: arranque mucho más liviano. Al abrir ya no se bajan todos los servidores: solo los que tienen más de 6 horas, de a uno y después del video; si un servidor no cambió, no se reescribe nada («Actualizar listas» sigue bajando todo). La búsqueda de equipos ya no recorre redes enteras (eso queda en «Escanear ahora»)."
+  "versionCode": 83,
+  "versionName": "2.8.1",
+  "apkUrl": "https://raw.githubusercontent.com/NetMachine/mk-cfg/main/iMonkeyTV-2.8.1.apk",
+  "sha256": "1c1f1dc05a8c028d67c4f6c4f28deaf3328c1c23f69e577709be485c5518f02b",
+  "notes": "2.8.1: inicio nuevo que espera lo esencial y muestra cada paso; en el Fuse espera a que el decodificador quede libre y reintenta en vez de cerrarse; avance mantenido fluido con tope de velocidad ajustable; vuelve el ajuste de volumen por la app (sonido envolvente apagado); la guía ya no se borra sola; nombre de la wifi; aviso de actualización después de entrar."
 }
